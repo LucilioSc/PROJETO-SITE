@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site do Curso em Video</title>
+    <link rel="stylesheet" href="estilos/style.css">
+</head>
+<body>
+    <main>
+        <header>
+            <h1>Cursos Grátis</h1>
+        </header>
+
+        <article>
+            <h2>Curs de HTML5 com CSS3</h2>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde cupiditate totam voluptatem adipisci fugit ipsa illo saepe ipsum a velit aspernatur omnis quae repellat magnam sed veritatis autem, nulla nemo.</p>
+        </article>
+
+        <article>
+            <h2>Curso de JavaScript</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore distinctio tempora, autem provident consequatur eaque suscipit, saepe maiores quaerat dolore quo accusantium veritatis esse libero? Soluta, fugiat! Minima, quo vero!</p>
+        </article>
+    </main>
+</body>
+</html>
